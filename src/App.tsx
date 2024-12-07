@@ -11,7 +11,6 @@ export default function App() {
         <div className="max-w-5xl w-full mx-auto p-4 md:p-6 space-y-6">
           <header className="flex items-center justify-between">
             <h1 className="text-2xl md:text-3xl font-bold">Christmas Radio</h1>
-            <span className="text-red-400">Live Radio</span>
           </header>
           
           <main className="space-y-6">
